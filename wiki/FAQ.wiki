@@ -1,0 +1,14 @@
+#summary Frequently asked questions
+
+== Appart from excluded (no billing) numbers, should be ideal to have a list of number where you have an x% discount. ==
+
+you could just add the numbers to excluded numbers and bill them in plan #2,
+for which you set a 20% discount.
+
+== Allow the to set a time where they are able to make and receive calls for free during he 
+weekdays and free weekend calling. ==
+
+just use the second plan.
+
+check which hours on which day should go to plan #1 or plan #2.
+then set (eg.) plan #2 to "no billing at all"
