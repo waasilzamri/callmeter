@@ -20,3 +20,22 @@ Just use exclude numbers + second plan again.
  * exclude numbers with given prefix (eg. +4930*, 030*, ..)
  * bill all time in plan #1
  * bill all excluded numbers in plan #2
+
+== Can you please explain what the numbers on the page report mean? ==
+
+ * Calls in: 7:15+ (12++) / 55:38+++
+  * + 7:15 minutes calls in this month
+  * ++ 12 calls in this month
+  * +++ 55:38 minutes called (incoming) all time
+ * Out: 2%+ / 10:09++ (1+++) / 12:07++++
+  * + 2% usage of the limit set in preferences
+  * ++ 10:09 minutes called outbound this month
+  * +++ 1 call made this month
+  * ++++ 12:07 minutes outbound all time
+ * SMS In: 13+ / 25++
+  * + 13 sms received this month
+  * ++ 25 sms received all time
+ * Out: 27.00$+ / 15++ / 31+++
+  * + 27$ cost this month for sms
+  * ++ 15 sms sent this month
+  * +++ 31 sms sent all time
