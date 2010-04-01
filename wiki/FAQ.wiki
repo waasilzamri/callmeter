@@ -39,3 +39,10 @@ Just use exclude numbers + second plan again.
   * + 27$ cost this month for sms
   * ++ 15 sms sent this month
   * +++ 31 sms sent all time
+
+== I set several exclude numbers, but it seems it does not affect my total outgoing call counter on stats page. Is it only supposed to exclude the list for calls after setting the numbers? ==
+
+right. with call meter ng 2.0 all calculation is done in background. only new log entries, limits and cost is calculated every now and then.
+if you change your settings, eg. excluded numbers, split plans etc., you should reset your stats to get the right stats.
+
+resetting the stats will just calculate all stats from beginning, which will take some time. it won't get deleted logentries/messages, as they are deleted ;)
