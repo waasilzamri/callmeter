@@ -12,3 +12,11 @@ just use the second plan.
 
 check which hours on which day should go to plan #1 or plan #2.
 then set (eg.) plan #2 to "no billing at all"
+
+== Calls to some prefix are billed in a second plan. ==
+
+Just use exclude numbers + second plan again.
+
+ * exclude numbers with given prefix (eg. +4930*, 030*, ..)
+ * bill all time in plan #1
+ * bill all excluded numbers in plan #2
