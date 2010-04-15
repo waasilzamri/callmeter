@@ -1,6 +1,17 @@
 #summary Frequently asked questions
 #labels Featured,FAQ
 
+== What are these billing modes? ==
+
+xx/yy means the first xx seconds are billed. no matter how long the call takes.
+the next billing periods are yy seconds long.
+
+eg: a call with a duration of 45s is billed as
+ * 60s with 60/yy
+ * 45s with 30/1
+ * 50s with 30/10
+ * 30s with 30/0
+
 == Appart from excluded (no billing) numbers, should be ideal to have a list of number where you have an x% discount. ==
 
 you could just add the numbers to excluded numbers and bill them in plan #2,
