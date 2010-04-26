@@ -57,3 +57,13 @@ right. with call meter ng 2.0 all calculation is done in background. only new lo
 if you change your settings, eg. excluded numbers, split plans etc., you should reset your stats to get the right stats.
 
 resetting the stats will just calculate all stats from beginning, which will take some time. it won't get deleted logentries/messages, as they are deleted ;)
+
+== Why is "cost per call" not available? ==
+
+At the moment it is not possible to set "cost per call" and a "free minutes" at the same time/plan. please follow issue #58 for further development on that.
+
+== How do i change the language, if my android does not want me to change it? ==
+
+There is an app: morelocale. i did not test it. but users did (issue #48).
+
+[market://search?q=pname:jp.co.c_lis.ccl.morelocale]
