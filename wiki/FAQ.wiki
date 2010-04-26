@@ -65,5 +65,3 @@ At the moment it is not possible to set "cost per call" and a "free minutes" at 
 == How do i change the language, if my android does not want me to change it? ==
 
 There is an app: morelocale. i did not test it. but users did (issue #48).
-
-[market://search?q=pname:jp.co.c_lis.ccl.morelocale morelocale]
