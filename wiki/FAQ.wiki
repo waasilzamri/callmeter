@@ -66,4 +66,4 @@ At the moment it is not possible to set "cost per call" and a "free minutes" at 
 
 There is an app: morelocale. i did not test it. but users did (issue #48).
 
-[market://search?q=pname:jp.co.c_lis.ccl.morelocale]
+[market://search?q=pname:jp.co.c_lis.ccl.morelocale morelocale]
