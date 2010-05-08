@@ -6,11 +6,17 @@
 xx/yy means the first xx seconds are billed. no matter how long the call takes.
 the next billing periods are yy seconds long.
 
-eg: a call with a duration of 45s is billed as
- * 60s with 60/yy
- * 45s with 30/1
- * 50s with 30/10
- * 30s with 30/0
+some examples:
+ # a call with a duration of 45s is billed as
+   * 60s with 60/yy
+   * 45s with 30/1
+   * 50s with 30/10
+   * 30s with 30/0
+ # a call with a duration of 65s is billed as
+   * 60s with 60/0
+   * 65s with xx/1
+   * 70s with xx/10
+   * 120s with 60/60
 
 == Appart from excluded (no billing) numbers, should be ideal to have a list of number where you have an x% discount. ==
 
