@@ -28,7 +28,7 @@ then set (eg.) plan #2 to "no billing at all"
 
 Just use exclude numbers + second plan again.
 
- * exclude numbers with given prefix (eg. +4930*, 030*, ..)
+ * exclude numbers with given prefix (eg. +4930`*`, 030`*`, ..)
  * bill all time in plan #1
  * bill all excluded numbers in plan #2
 
