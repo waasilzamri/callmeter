@@ -70,9 +70,15 @@ At the moment it is not possible to set "cost per call" and a "free minutes" at 
 
 == How do i change the language, if my android does not want me to change it? ==
 
-There is an app: morelocale. i did not test it. but users did (issue #48).
+There is an app: morelocale. I did not test it. But users did (issue #48).
 
 ==Is it possible to show my local currency?==
 It is.
-The currency symbol is set by androids locale settings.
+The currency symbol is set by android's locale settings.
 Just set it to whereever you live.
+
+==Is it possible to change the time format?==
+It is, like above you set it with your android's locale settings.
+
+==What should i set the cost / call/sms/mb to?==
+You should set it in your main currency eg. 0.09€/SMS.
