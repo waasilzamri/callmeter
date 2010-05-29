@@ -82,3 +82,9 @@ It is, like above you set it with your android's locale settings.
 
 ==What should i set the cost / call/sms/mb to?==
 You should set it in your main currency eg. 0.09€/SMS.
+
+==Is it possible to separate roaming calls?==
+No it isn't.
+
+==Is it possible to exclude WebSMS/Sipdroid's sms/calls?==
+Currently not, i'm working on it: [http://code.google.com/p/websmsdroid/issues/detail?id=205]
