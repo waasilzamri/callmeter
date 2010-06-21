@@ -41,9 +41,9 @@ Just use exclude numbers + second plan again.
 == Can you please explain what the numbers on the page report mean? ==
 
  * Calls in: 7:15+ (12++) / 55:38+++
-  * + 7:15 minutes calls in this month
-  * ++ 12 calls in this month
-  * +++ 55:38 minutes called (incoming) all time
+  * + 7:15 *minutes* calls in *this month*
+  * ++ 12 *calls* in *this month*
+  * +++ 55:38 *minutes called* (incoming) all *past month + current one*
  * Out: 2%+ / 10:09++ (1+++) / 12:07++++
   * + 2% usage of the limit set in preferences
   * ++ 10:09 minutes called outbound this month
@@ -88,3 +88,7 @@ No it isn't.
 
 ==Is it possible to exclude WebSMS/Sipdroid's sms/calls?==
 Currently not, i'm working on it: [http://code.google.com/p/websmsdroid/issues/detail?id=205]
+
+==Please add...==
+Please post your feature request as issue:
+[http://code.google.com/p/callmeter/issues/list]
