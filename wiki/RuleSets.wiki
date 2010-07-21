@@ -8,5 +8,4 @@ If you want to post your common plan here, just export it and send it to me.
 
 = Rule sets =
 
-==Example rule set==
- Click  <a href="import://callmeter.android.ub0r.de/callmeter.googlecode.com/svn/wiki/rulesets/example.export">this link</a> to import the example rule set.
+Pleas get the rule sets from [http://www.4.ub0r.de/android/callmeter/rulesets/ this] site.
