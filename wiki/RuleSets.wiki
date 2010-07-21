@@ -1,0 +1,12 @@
+#summary This page is providing some default rule sets.
+
+= Introduction =
+
+You may want to import one of the following rule sets to bootstrap your call mater app. This is only working for Call Meter 3G aka cm3.
+
+If you want to post your common plan here, just export it and send it to me.
+
+= Rule sets =
+
+==Example rule set==
+ Click  [import://callmeter.android.ub0r.de/callmeter.googlecode.com/svn/wiki/rulesets/example.export this link] to import the example rule set.
