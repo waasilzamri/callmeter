@@ -32,10 +32,14 @@ Basically there are 3 parts to understand:
    * Wildcards are allowd. E.g. add +491% and 01% to exclude all German mobile numbers.
  # Go back to the rule and select the created the number group.
 
-
 ==What should i set the cost / call/sms/mb to?==
 You should set it in your main currency eg. 0.09€/SMS.
 You need to set it with a "." regardless of your locale (This is a bug in android itself).
+
+==Why does the app need network-based location access?==
+It's just for the ads provided by admob.
+If you are afraid of this apps behavior, you should check out the source code.
+As this is an open source project, the source is available for everyone!
 
 ==Please add...==
 Please post your feature request as issue:
