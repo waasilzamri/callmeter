@@ -1,0 +1,37 @@
+#summary Frequently asked questions for Call MEter 3G aka CM3
+#labels Featured,FAQ
+
+== What are these bill modes? ==
+
+xx/yy means the first xx seconds are billed. no matter how long the call takes.
+the next billing periods are yy seconds long.
+
+some examples:
+ # a call with a duration of 45s is billed as
+   * 60s with 60/yy
+   * 45s with 30/1
+   * 50s with 30/10
+   * 30s with 30/0
+ # a call with a duration of 65s is billed as
+   * 60s with 60/0
+   * 65s with xx/1
+   * 70s with xx/10
+   * 120s with 60/60
+
+==How does this whole thing work?==
+Basically there are 3 parts to understand:
+ # There is the LogRunner running in background every now and then collecting information from your device and storing them in a database.
+ # There are Plans. This is where you set cost, limits, bill modes etc.
+ # There are Rules. These rules define, which log is billed in which plan to show up on may screen.
+
+==How do I exclude a few numbers from a plan?==
+ # Go to the Rules view.
+ # Look for "exclude numbergroups".
+ # Add/Edit a numbergroup:
+   * Add all numbers you want to be excluded to the group
+   * Wildcards are allowd. E.g. add +491% and 01% to exclude all German mobile numbers.
+ # Go back to the rule and select the created the number group.
+
+==Please add...==
+Please post your feature request as issue:
+[http://code.google.com/p/callmeter/issues/list]
