@@ -20,6 +20,9 @@ some examples:
    * 70s with xx/10
    * 120s with 60/60
 
+==I changed the the settings but the statistic won't change. What did i wrong?==
+For Call Meter NG you need to reset the statistics to recalculate the stats for previous calls/messages.
+
 == Appart from excluded (no billing) numbers, should be ideal to have a list of number where you have an x% discount. ==
 
 you could just add the numbers to excluded numbers and bill them in plan #2,
