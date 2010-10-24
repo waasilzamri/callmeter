@@ -48,7 +48,7 @@ Just use exclude numbers + second plan again.
  * Calls in: 7:15+ (12++) / 55:38+++
   * + 7:15 *minutes* calls in *this month*
   * ++ 12 *calls* in *this month*
-  * +++ 55:38 *minutes called* (incoming) all *past month + current one*
+  * +++ 55:38 *minutes called* (incoming) *previous month + current one*
  * Out: 2%+ / 10:09++ (1+++) / 12:07++++
   * + 2% usage of the limit set in preferences
   * ++ 10:09 minutes called outbound this month
