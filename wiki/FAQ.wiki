@@ -87,6 +87,7 @@ In CM2 it's not. Please checkout Call Meter 3G aka CM3.
 
 ==What should i set the cost / call/sms/mb to?==
 You should set it in your main currency eg. 0.09€/SMS.
+You need to set it with a "." regardless of your locale (This is a bug in android itself).
 
 ==Is it possible to separate roaming calls?==
 In CM2 it's not. Please checkout Call Meter 3G aka CM3.
