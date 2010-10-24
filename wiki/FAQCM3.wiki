@@ -32,6 +32,11 @@ Basically there are 3 parts to understand:
    * Wildcards are allowd. E.g. add +491% and 01% to exclude all German mobile numbers.
  # Go back to the rule and select the created the number group.
 
+
+==What should i set the cost / call/sms/mb to?==
+You should set it in your main currency eg. 0.09€/SMS.
+You need to set it with a "." regardless of your locale (This is a bug in android itself).
+
 ==Please add...==
 Please post your feature request as issue:
 [http://code.google.com/p/callmeter/issues/list]
