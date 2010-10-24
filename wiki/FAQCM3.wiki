@@ -36,6 +36,9 @@ Basically there are 3 parts to understand:
 You should set it in your main currency eg. 0.09€/SMS.
 You need to set it with a "." regardless of your locale (This is a bug in android itself).
 
+==Is there any way to backup and restore the statistics (e.g. when changing the phone)?==
+Not today. But restoring the backup of call log/messages with external apps should restore the stats in CallMeter too.
+
 ==Why does the app need network-based location access?==
 It's just for the ads provided by admob.
 If you are afraid of this apps behavior, you should check out the source code.
