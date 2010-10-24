@@ -1,0 +1,74 @@
+#summary List of versions and changes for Call Meter 3G aka cm3
+
+====v2.9.1====
+ * Fix cost for long sms
+ * fix cost when reaching limit
+ * set name/shortname for widget
+ * show cost in widget
+ * show billperiod in widget
+ * settable sizes
+ * don't bill first x seconds
+ * merge plans
+ * hide empty plans
+====v2.8.10====
+ * Integration with WebSMS
+ * set custom locale
+====v2.8.9====
+ * clean groups in rules
+ * fix numbergroups
+ * fix adding logs
+ * fix import from file
+ * reduce collected traffic data
+====v2.8.8====
+ * fix for GT-I5500 (issue #246)
+ * fix cost for data (issue #251)
+ * decimal limit (issue #248)
+====v2.8.7====
+ * Fix length of billing period
+====v2.8.6====
+ * Fix some FCs
+ * hide total stats (issue #227)
+ * prepaid plans (issue #86)
+ * set textsize 
+ * manipulate logs by hand (issue #189)
+ * fix some more bugs (issue #224)
+ * add 60/15 bill mode (issue #222)
+====v2.8.5====
+ * Fix default displaying values for pans/rules
+====v2.8.4====
+ * Fix some FCs
+ * fix number groups with more than one entry
+ * readd druch, spanish and portuguese translations
+====v2.8.3====
+ * Fix excluded numbers
+====v2.8.2====
+ * Simplify rules (You must reset them!)
+ * fix export
+ * fix NPEs
+ * set update interval
+ * set beginning of record
+====v2.8.1====
+ * Add default rule sets
+ * reduce complexity for simple setups
+ * some changes to gui
+ * force internal install
+====v2.7.3====
+ * Fix uneditable fields
+ * fix FC for empty bill modes
+ * allow to hide title bar
+ * readd polish+russion translation
+====v2.7.2====
+ * History
+ * alert
+ * widget
+ * total expense
+ * ...
+====v2.7.1====
+ * Custom date format
+ * currency format/symbol
+ * speedup boot/shutdown process
+ * changing color of limit bars
+ * new screens for plans/rules
+====v2.7.0====
+ * Initial alpha of Call Meter 3G
+ * Major architecture refactoring
