@@ -1,4 +1,5 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
+#labels ChangeLog,Featured
 
 ====v2.9.1====
  * Fix cost for long sms (issue #279)
