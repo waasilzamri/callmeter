@@ -1,6 +1,11 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
 
+
+====v2.9.2====
+ * Delete old logs (default: 90days)
+ * multiselection on groups (issue #298)
+ * fix NPE
 ====v2.9.1====
  * Fix cost for long sms (issue #279)
  * fix cost when reaching limit
