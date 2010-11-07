@@ -23,6 +23,13 @@ some examples:
 ==I changed the the settings but the statistic won't change. What did i wrong?==
 For Call Meter NG you need to reset the statistics to recalculate the stats for previous calls/messages.
 
+==Why is data traffic incorrect?==
+The android system itself does not collect traffic statistics. This app reads the information directly from the linux kernel. This is why statistics from before last reboot is unavailable.
+
+==Is there a way to distinguish between WLAN/WIFI and 2G/3G/4G traffic?==
+This app currently does count 2G/3G/4G traffic only!
+Please see issue #120.
+
 == Appart from excluded (no billing) numbers, should be ideal to have a list of number where you have an x% discount. ==
 
 you could just add the numbers to excluded numbers and bill them in plan #2,
