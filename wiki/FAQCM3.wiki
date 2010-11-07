@@ -24,6 +24,13 @@ Basically there are 3 parts to understand:
  # There are Plans. This is where you set cost, limits, bill modes etc.
  # There are Rules. These rules define, which log is billed in which plan to show up on may screen.
 
+==Why is data traffic incorrect?==
+The android system itself does not collect traffic statistics. This app reads the information directly from the linux kernel. This is why statistics from before last reboot is unavailable.
+
+==Is there a way to distinguish between WLAN/WIFI and 2G/3G/4G traffic?==
+This app currently does count 2G/3G/4G traffic only!
+Please see issue #120.
+
 ==How do I exclude a few numbers from a plan?==
  # Go to the Rules view.
  # Look for "exclude numbergroups".
