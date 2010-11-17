@@ -1,7 +1,13 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
 
-
+====v2.9.3====
+ * Integrate with sipdroid >1.6.1
+ * default update interval: 60m
+ * fix MMS counter
+ * fix mixed+merged limits
+ * progressbar color
+ * add chinese translation
 ====v2.9.2====
  * Delete old logs (default: 90days)
  * multiselection on groups (issue #298)
