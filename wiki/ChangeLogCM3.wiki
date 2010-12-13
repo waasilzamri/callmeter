@@ -1,6 +1,11 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
 
+====v2.9.4====
+ * hide progress bars
+ * add bill periods: 4,5,6,12 month
+ * strip leading zeros
+ * hide no cost plans
 ====v2.9.3====
  * Integrate with sipdroid >1.6.1
  * default update interval: 60m
