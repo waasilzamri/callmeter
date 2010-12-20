@@ -1,6 +1,13 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
 
+====v2.9.5====
+ * set date+time for start of billing period (issue #258, issue #345)
+ * improve data logging (issue #346)
+ * match (inter-)national numbers (enter your prefix in preferences) (issue #349)
+ * show today\'s stats (issue #242)
+ * allow multi bill period merger (issue #56)
+ * show call info after hanging up (issue #318)
 ====v2.9.4====
  * hide progress bars (issue #328)
  * add bill periods: 4,5,6,12 month
