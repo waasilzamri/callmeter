@@ -2,6 +2,13 @@
 #labels ChangeLog,Featured
 
 ====v2.9.5====
+ * fix info toast after call
+ * set custom delimiter / fix delimiter (issue #358)
+ * add mon-fri for hour groups
+ * allow <1 units in mixed plans (issue #292)
+ * fix limit+cost for mixed+merged plans (issue #292, issue #293)
+ * export/backup number groups, hour groups, logs (issue #184, issue #203)
+====v2.9.5====
  * set date+time for start of billing period (issue #258, issue #345)
  * improve data logging (issue #346)
  * match (inter-)national numbers (enter your prefix in preferences) (issue #349)
