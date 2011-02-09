@@ -1,7 +1,13 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
-
-====v2.9.5====
+====v3.0 rc7====
+ * fix data logs (issue #346)
+ * fix sunday (issue #373)
+ * fix limit+cost for merged+mixed plans  (issue #292, issue #293)
+ * add remote number for MMS (issue #367)
+ * update translations
+ * add help
+====v2.9.6====
  * fix info toast after call
  * set custom delimiter / fix delimiter (issue #358)
  * add mon-fri for hour groups
