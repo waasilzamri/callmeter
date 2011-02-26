@@ -1,6 +1,11 @@
 #summary List of versions and changes for Call Meter NG aka cm2
 #labels Featured,ChangeLog
 
+====v2.3.15====
+ * add hebrew translation
+ * update translation
+ * minor inner changes
+ * add support for GT-I5510
 ====v2.3.14====
  * Slovak translation
  * fix Czech translation
