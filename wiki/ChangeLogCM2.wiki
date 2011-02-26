@@ -5,7 +5,7 @@
  * add hebrew translation
  * update translation
  * minor inner changes
- * add support for GT-I5510
+ * add support for GT-I5510 (issue #390)
 ====v2.3.14====
  * Slovak translation
  * fix Czech translation
