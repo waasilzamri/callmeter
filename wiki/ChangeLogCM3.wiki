@@ -1,5 +1,12 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+
+====v3.0 rc8====
+ * fix an other sunday bug (issue #373)
+ * allow to split messages at fixed 160 chars  (issue #370)
+ * fix messages to yourself (issue #386)
+ * add support for GT-I5510 (issue #390)
+ * fix custom currency symbol  (issue #402)
 ====v3.0 rc7====
  * fix data logs (issue #346)
  * fix sunday (issue #373)
