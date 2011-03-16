@@ -1,6 +1,9 @@
 #summary List of versions and changes for Call Meter NG aka cm2
 #labels Featured,ChangeLog
 
+====v2.3.16====
+ * Add support for GT-S5830
+ * move to new translation system
 ====v2.3.15====
  * add hebrew translation
  * update translation
