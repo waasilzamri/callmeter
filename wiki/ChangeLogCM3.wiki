@@ -1,6 +1,9 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
-
+====v3.0 rc9====
+ * Add support for GT-S5830 and possible all future samsung devices (issue #426)
+ * major inner changes (issue 400)
+ * update translations
 ====v3.0 rc8====
  * fix an other sunday bug (issue #373)
  * allow to split messages at fixed 160 chars  (issue #370)
