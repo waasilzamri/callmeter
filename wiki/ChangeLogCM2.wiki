@@ -1,6 +1,11 @@
 #summary List of versions and changes for Call Meter NG aka cm2
 #labels Featured,ChangeLog
 
+====v2.3.17====
+ * add support for LG-P990 (issue #432)
+ * minor fixes
+ * translation updates
+ * add (not yet finished) danish translation
 ====v2.3.16====
  * Add support for GT-S5830
  * move to new translation system
