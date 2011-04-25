@@ -1,5 +1,11 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====v3.0 rc10====
+ * set text size/color in widget
+ * set background color in widget (issue #398)
+ * add support for LG-P990 (issue #432)
+ * rename data stats by default (issue #441)
+ * update translation
 ====v3.0 rc9====
  * Add support for GT-S5830 and possible all future samsung devices (issue #426)
  * major inner changes (issue #400)
