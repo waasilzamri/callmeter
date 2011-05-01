@@ -1,6 +1,9 @@
 #summary List of versions and changes for Call Meter NG aka cm2
 #labels Featured,ChangeLog
 
+====v2.3.17.5====
+ * Fix language selection for german+danish (issue #442)
+ * add an other hint for data stats (issue #441)
 ====v2.3.17.4====
  * fix for android 1.5
 ====v2.3.17====
