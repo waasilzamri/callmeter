@@ -1,5 +1,8 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====v3.0 rc11====
+ * show icon / small widget (thanks to luca niccoli for both)
+ * update translations
 ====v3.0 rc10====
  * set text size/color in widget (issue #314)
  * set background color in widget (issue #398)
