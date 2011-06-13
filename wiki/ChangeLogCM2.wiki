@@ -1,5 +1,8 @@
 #summary List of versions and changes for Call Meter NG aka cm2
 #labels Featured,ChangeLog
+====v2.3.17.7====
+ * Fix Samsung Galaxy S 2
+ * Fix hebrew translation
 ====v2.3.17.6====
  * Translation updates
 ====v2.3.17.5====
