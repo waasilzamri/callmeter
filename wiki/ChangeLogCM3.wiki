@@ -1,5 +1,8 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====v3.0 rc13====
+ * Fix Samsung Phones (issue #480)
+ * Translate Default Rule Set
 ====v3.0 rc12====
  * Fix Samsung Galaxy S 2
 ====v3.0 rc11====
