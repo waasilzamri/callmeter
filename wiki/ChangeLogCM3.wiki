@@ -1,5 +1,8 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====v3.0 rc15====
+ * fix data stats
+ * fix some minor FCs
 ====v3.0 rc14====
  * simple preferences for default rule set
  * reimport default rule set, exlucde numbers for default rule set
