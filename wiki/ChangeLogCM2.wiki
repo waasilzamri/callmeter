@@ -1,7 +1,7 @@
 #summary List of versions and changes for Call Meter NG aka cm2
 #labels Featured,ChangeLog
 ====v2.3.17.10====
- * fix data stats
+ * fix data stats (issue #509)
 ====v2.3.17.9====
  * add support for a601 and htc thunderbolt
  * update translations
