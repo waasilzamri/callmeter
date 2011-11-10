@@ -1,5 +1,8 @@
 #summary List of versions and changes for Call Meter NG aka cm2
 #labels Featured,ChangeLog
+====v2.3.18====
+ * Merge new data stats from Call Meter 3G
+ * update translations
 ====v2.3.17.10====
  * fix data stats (issue #509)
 ====v2.3.17.9====
