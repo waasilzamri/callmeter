@@ -1,8 +1,8 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
 ====v3.0====
- * generic traffic for FroYo+ devices
- * import rule sets from sd card
+ * generic traffic for FroYo+ devices (issue #464, #527, #547)
+ * import rule sets from sd card (issue #372)
  * update translations
 ====v3.0 rc15====
  * fix data stats (issue #509)
