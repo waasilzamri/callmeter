@@ -2,10 +2,10 @@
 #labels ChangeLog,Featured
 ====v3.1====
  * RECALCULATON OF STATS NEEDED! this will take some time
- * disable rules
- * more filters in logs view
- * major change in design
- * major change in database queries
+ * disable rules (issue #584)
+ * more filters in logs view (issue #548, issue #549)
+ * major change in design (issue #414)
+ * major change in database queries (issue #579, issue #587)
  * update translations
 ====v3.0====
  * generic traffic for FroYo+ devices (issue #464, issue #527, issue #547)
