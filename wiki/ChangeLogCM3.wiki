@@ -1,5 +1,10 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====v3.2====
+ * improve performance (issue #592)
+ * fix setting text size
+ * fix donation view (issue #593)
+ * fix date and cost format in logs view (issue #595)
 ====v3.1====
  * RECALCULATON OF STATS NEEDED! this will take some time
  * disable rules (issue #584)
