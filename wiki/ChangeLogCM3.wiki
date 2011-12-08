@@ -5,6 +5,7 @@
  * fix unlimited bill periods
  * add data log record (issue #604)
  * fix color of in widget (issue #605)
+ * update translations
 ====v3.2====
  * improve performance (issue #592)
  * fix setting text size
