@@ -1,6 +1,9 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
 ====v3.2.1====
+ * fix FC
+ * update translations
+====v3.2.1====
  * fix FC (issue #602)
  * fix unlimited bill periods
  * add data log record (issue #604)
