@@ -8,4 +8,4 @@ If you want to post your common plan here, just export it and send it to me.
 
 = Rule sets =
 
-Pleas get the rule sets from [http://www.4.ub0r.de/android/callmeter/rulesets/ this] site.
+Pleas get the rule sets from [http://www.ub0r.de/android/callmeter/rulesets/ this] site.
