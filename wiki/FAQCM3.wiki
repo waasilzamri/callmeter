@@ -52,7 +52,7 @@ If you are afraid of this apps behavior, you should check out the source code.
 As this is an open source project, the source is available for everyone!
 
 ==How do i import preconfigured rule sets?==
-Just visit [http://www.4.ub0r.de/android/callmeter/rulesets/] with your phone or PC. Select any of the rule sets.
+Just visit [http://www.ub0r.de/android/callmeter/rulesets/] with your phone or PC. Select any of the rule sets.
 
 When viewing with PC, the barcode let's you import the rule set on your phone.
 When viewing with your phone, you can just click the direct link.
