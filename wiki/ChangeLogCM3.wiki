@@ -1,6 +1,16 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
-====v3.2.1====
+====v3.3====
+ * fix FC on android 1.6
+ * fix sorting plans/rules (issue #606)
+ * fix sum of cost for multi bill period plans (issue #594)
+ * fix accuracy of data stats (esp. for samsung devices) (issue #603)
+ * fix widget for galaxy nexus (issue #610)
+ * configure existing widgets
+ * add widget for bill period (issue #332)
+ * show intro for new users
+ * data stats for acer e130 (issue #615)
+====v3.2.2====
  * fix FC
  * update translations
 ====v3.2.1====
