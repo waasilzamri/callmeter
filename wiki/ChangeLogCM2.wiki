@@ -1,5 +1,8 @@
 #summary List of versions and changes for Call Meter NG aka cm2
 #labels Featured,ChangeLog
+====v2.3.18.2====
+ * data stats for acer e130 (issue #615)
+ * update translations
 ====v2.3.18.1====
  * Fix for HC/ICS devices
  * update translations
