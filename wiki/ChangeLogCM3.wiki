@@ -41,7 +41,7 @@
  * major change in design (issue #414)
  * major change in database queries (issue #579, issue #587)
  * update translations
-====v3.0====
+====v3.0.1====
  * minor fix release
 ====v3.0====
  * generic traffic for FroYo+ devices (issue #464, issue #527, issue #547)
