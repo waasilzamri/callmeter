@@ -1,5 +1,13 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====v3.4====
+ * add bill period length 14d 15d 31d 1m+1d (issue #650)
+ * fix merged cost limits (issue #579)
+ * minor UI fixes (issue #626, issue #658)
+ * remove stale widgets (issue #630)
+ * text in number groups (issue #625)
+ * fix prepaid cost in widget (issue #640)
+ * show up to 20plans in "ask for plans" activity (issue #643)
 ====v3.3.1====
  * fix FC on android 1.6
 ====v3.3====
@@ -33,6 +41,8 @@
  * major change in design (issue #414)
  * major change in database queries (issue #579, issue #587)
  * update translations
+====v3.0====
+ * minor fix release
 ====v3.0====
  * generic traffic for FroYo+ devices (issue #464, issue #527, issue #547)
  * import rule sets from sd card (issue #372)
