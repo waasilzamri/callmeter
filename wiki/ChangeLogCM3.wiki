@@ -1,5 +1,8 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====v3.4.2====
+ * fix 31d bill period (issue #665)
+ * update translations
 ====v3.4.1====
  * show past bill periods as 100% (issue #662)
  * fix import/export of rules with new and old bill periods
