@@ -4,6 +4,7 @@
  * update ActionBarScherlock 4.1
  * prepare for android 4.1 aka. jelly bean
  * fix some FCs (issue #703 and more)
+ * update translations
 ====v3.4.2====
  * fix 31d bill period (issue #665)
  * update translations
