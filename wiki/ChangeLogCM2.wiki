@@ -1,5 +1,8 @@
 #summary List of versions and changes for Call Meter NG aka cm2
 #labels Featured,ChangeLog
+====v2.3.18.4====
+ * update translations
+ * prepare for jelly bean
 ====v2.3.18.3====
  * reduce app size
  * update translations
