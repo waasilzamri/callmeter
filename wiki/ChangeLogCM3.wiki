@@ -1,5 +1,9 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====v3.5====
+ * update ActionBarScherlock 4.1
+ * prepare for android 4.1 aka. jelly bean
+ * fix some FCs (issue #703 and more)
 ====v3.4.2====
  * fix 31d bill period (issue #665)
  * update translations
