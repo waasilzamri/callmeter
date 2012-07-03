@@ -1,5 +1,9 @@
 #summary List of versions and changes for Call Meter NG aka cm2
 #labels Featured,ChangeLog
+====v2.3.18.5====
+ * fix translation causing FCs
+====v2.3.18.6====
+ * fix translation causing FCs
 ====v2.3.18.4====
  * update translations
  * prepare for jelly bean
