@@ -1,5 +1,9 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====v3.5.1====
+ * fix some FCs
+ * fix dark theme
+ * fix titles in main view (issue #711)
 ====v3.5====
  * update ActionBarScherlock 4.1
  * prepare for android 4.1 aka. jelly bean
