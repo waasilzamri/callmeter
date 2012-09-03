@@ -1,5 +1,10 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====v3.6====
+ * export logs as csv file (issue #719)
+ * reimplement preferences
+ * fix minor bugs
+ * update translations
 ====v3.5.1====
  * fix some FCs
  * fix dark theme
