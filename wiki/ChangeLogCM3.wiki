@@ -1,5 +1,9 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====v3.6.4====
+ * fix FC on some samsung phones (issue #767)
+ * fix out of memory exception
+ * minor fixes (issue #765)
 ====v3.6.3====
  * basic dual sim support (issue #163)
  * export/impor XML file
