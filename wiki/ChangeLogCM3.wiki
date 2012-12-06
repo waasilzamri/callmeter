@@ -5,7 +5,7 @@
  * fix cost settings help for plans without limit (issue #365)
  * merge data in mixed plans (issue #619)
  * hide progressbar for unlimited bill periods (issue #707)
- * strip anything but first x seconds (issue #712)
+ * strip anything but first x seconds (issue #629, issue #712)
  * deleting last call will stay deleted until reset stats (issue #764)
  * fix & in exports (issue #770)
  * fix numbers/hours imports (issue #771)
