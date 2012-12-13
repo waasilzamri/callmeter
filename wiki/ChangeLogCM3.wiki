@@ -1,5 +1,9 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====v3.7.1====
+ * fix cost in merged plans (reset stats please) (issue #785)
+ * fix progress bar size for android 3+ (issue #774)
+ * some more fixes (issue #773)
 ====v3.7====
  * fix limit breaking calls/data (issue #301)
  * fix cost settings help for plans without limit (issue #365)
