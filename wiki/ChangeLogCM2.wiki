@@ -1,5 +1,7 @@
 #summary List of versions and changes for Call Meter NG aka cm2
 #labels Featured,ChangeLog
+====v2.3.18.8====
+ * update translations
 ====v2.3.18.7====
  * minor fixes
  * inner changes
