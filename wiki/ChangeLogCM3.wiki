@@ -3,7 +3,7 @@
 ====v3.8====
  * show users' rules in app
  * fix custom bill mode settings
- * update tanslation
+ * update translation
 ====v3.7.2====
  * fix import of rules with "longdescription" (issue #790)
 ====v3.7.1====
