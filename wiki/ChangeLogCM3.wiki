@@ -1,5 +1,9 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====3.8.1====
+ * fix limit calculation for cost limits (issue #553)
+ * fix mixed plans merging data plans (issue #802)
+ * fix cost in mixed plans merging other plans (issue #801)
 ====v3.8====
  * show users' rules in app
  * fix custom bill mode settings
