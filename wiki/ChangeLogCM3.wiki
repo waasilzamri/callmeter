@@ -1,5 +1,10 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====3.8.2====
+ * hide total stats by default (issue #812)
+ * hide amount for "total merger plans" (issue #633)
+ * include/exclude numbers for MMS (issue #775)
+ * fix showing total cost in bill period (issue #819)
 ====3.8.1====
  * fix limit calculation for cost limits (issue #553)
  * fix mixed plans merging data plans (issue #802)
