@@ -1,5 +1,10 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====3.8.4====
+ * fix % in number groups (issue #833)
+ * set widget color directly (issue #834)
+ * minor fixes
+ * update translations
 ====3.8.3====
  * show confirmation when deleting groups (issue #827)
  * sort plans/rules by buttons instead of menu entries (issue #828)
