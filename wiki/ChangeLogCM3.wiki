@@ -1,5 +1,10 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====3.9====
+ * show last day of bill period (issue #856)
+ * fix multi sim on ZTE V970 (issue #163)
+ * confirm deleting plans/rules (issue #853)
+ * tune widget layout
 ====3.8.4====
  * fix % in number groups (issue #833)
  * set widget color directly (issue #834)
