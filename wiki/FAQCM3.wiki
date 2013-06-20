@@ -1,6 +1,14 @@
 #summary Frequently asked questions for Call MEter 3G aka CM3
 #labels Featured,FAQ
 
+== How to read the colors? ==
+
+There are tree colors used to indicate your usage:
+
+ * red: your limit is reached by at least 100%
+ * yellow: your limit is used more than your billing period. this means when using your limit with the same speed, you will end up red. eg. at the half of the month, you used more than half of your limit.
+ * green: everything is good
+
 == What are these bill modes? ==
 
 xx/yy means the first xx seconds are billed. no matter how long the call takes.
@@ -117,7 +125,7 @@ It's just for the ads provided by admob.
 If you are afraid of this apps behavior, you should check out the source code.
 As this is an open source project, the source is available for everyone!
 
-==How do i import preconfigured rule sets?==
+==How do I import preconfigured rule sets?==
 Just visit [http://www.ub0r.de/android/callmeter/rulesets/] with your phone or PC. Select any of the rule sets.
 
 When viewing with PC, the barcode let's you import the rule set on your phone.
