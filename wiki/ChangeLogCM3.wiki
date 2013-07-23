@@ -1,5 +1,9 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====3.9.1====
+ * handle merged plans in LogsFragment (issue #877)
+ * add Portuguese translation (thanks to Sérgio Marques)
+ * update translations
 ====3.9====
  * show last day of bill period (issue #856)
  * fix multi sim on ZTE V970 (issue #163)
