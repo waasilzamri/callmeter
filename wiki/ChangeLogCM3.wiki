@@ -2,6 +2,7 @@
 #labels ChangeLog,Featured
 ====3.9.1====
  * handle merged plans in LogsFragment (issue #877)
+ * add Serbian translation (thanks to Igor Kutlarevic)
  * add Portuguese translation (thanks to Sérgio Marques)
  * update translations
 ====3.9====
