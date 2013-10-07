@@ -1,5 +1,10 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====3.10====
+ * fix RuleEdit for dual sim phones (issue #898)
+ * filter sms by sim id (issue #163)
+ * new default rule set with dual sim/websms/voip if available (issue #163)
+ * remove translation with <55% translated texts
 ====3.9.1====
  * handle merged plans in LogsFragment (issue #877)
  * add Serbian translation (thanks to Igor Kutlarevic)
