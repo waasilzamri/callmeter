@@ -1,5 +1,9 @@
 #summary List of versions and changes for Call Meter NG aka cm2
 #labels Featured,ChangeLog
+====v2.3.21====
+ * add Arabic translation (thanks to AbuIyad)
+ * add Lithuanian translation (thanks to Aivaras Skuodas)
+ * update translations
 ====v2.3.20====
  * add Portuguese translation (thanks to Sérgio Marques)
  * update translations
