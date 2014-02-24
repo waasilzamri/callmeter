@@ -1,5 +1,9 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====3.11====
+ * fix for Sony's broken android implementation
+ * fix missing alerts on 80% and 100% plan usage (issue #490)
+ * add sim id to csv export (issue #945)
 ====3.10====
  * fix RuleEdit for dual sim phones (issue #898)
  * filter sms by sim id (issue #163)
