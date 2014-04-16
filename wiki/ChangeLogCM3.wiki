@@ -1,5 +1,10 @@
 #summary List of versions and changes for Call Meter 3G aka cm3
 #labels ChangeLog,Featured
+====3.11.2====
+ * add support for some more dual sim devices (issue #163)
+ * fix default rule set for second sim if any (issue #949)
+ * fix closing dialog after importing (issue #959)
+ * fix for second bill period (issue #956)
 ====3.11.1====
  * fix alert strings for Hungarian
  * fix some minor FCs
