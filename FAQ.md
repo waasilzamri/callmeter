@@ -1,0 +1,124 @@
+**Please see the FAQ for Call Meter 3G aka CM3 [here](FAQCM3.md).**
+
+## What are these billing modes? ##
+
+xx/yy means the first xx seconds are billed. no matter how long the call takes.
+the next billing periods are yy seconds long.
+
+some examples:
+  1. a call with a duration of 45s is billed as
+    * 60s with 60/yy
+    * 45s with 30/1
+    * 50s with 30/10
+    * 30s with 30/0
+  1. a call with a duration of 65s is billed as
+    * 60s with 60/0
+    * 65s with xx/1
+    * 70s with xx/10
+    * 120s with 60/60
+
+## I changed the the settings but the statistic won't change. What did i wrong? ##
+For Call Meter NG you need to reset the statistics to recalculate the stats for previous calls/messages.
+
+## Why is data traffic incorrect? ##
+The android system itself does not collect traffic statistics. This app reads the information directly from the linux kernel. This is why statistics from before last reboot is unavailable.
+
+## Is there a way to distinguish between WLAN/WIFI and 2G/3G/4G traffic? ##
+This app currently does count 2G/3G/4G traffic only!
+Please see [issue #120](https://code.google.com/p/callmeter/issues/detail?id=#120).
+
+## Appart from excluded (no billing) numbers, should be ideal to have a list of number where you have an x% discount. ##
+
+you could just add the numbers to excluded numbers and bill them in plan #2,
+for which you set a 20% discount.
+
+## Allow the to set a time where they are able to make and receive calls for free during he weekdays and free weekend calling. ##
+
+just use the second plan.
+
+check which hours on which day should go to plan #1 or plan #2.
+then set (eg.) plan #2 to "no billing at all"
+
+## Calls to some prefix are billed in a second plan. ##
+
+Just use exclude numbers + second plan again.
+
+  * exclude numbers with given prefix (eg. +4930`*`, 030`*`, ..)
+  * bill all time in plan #1
+  * bill all excluded numbers in plan #2
+
+## Can you please explain what the numbers on the page report mean? ##
+
+  * Calls in: 7:15+ (12++) / 55:38+++
+    * + 7:15 **minutes** calls in **this month**
+    * ++ 12 **calls** in **this month**
+    * +++ 55:38 **minutes called** (incoming) **previous month + current one**
+  * Out: 2%+ / 10:09++ (1+++) / 12:07++++
+    * + 2% usage of the limit set in preferences
+    * ++ 10:09 minutes called outbound this month
+    * +++ 1 call made this month
+    * ++++ 12:07 minutes outbound all time
+  * SMS In: 13+ / 25++
+    * + 13 sms received this month
+    * ++ 25 sms received all time
+  * Out: 27.00$+ / 15++ / 31+++
+    * + 27$ cost this month for sms
+    * ++ 15 sms sent this month
+    * +++ 31 sms sent all time
+
+## I set several exclude numbers, but it seems it does not affect my total outgoing call counter on stats page. Is it only supposed to exclude the list for calls after setting the numbers? ##
+
+right. with call meter ng 2.0 all calculation is done in background. only new log entries, limits and cost is calculated every now and then.
+if you change your settings, eg. excluded numbers, split plans etc., you should reset your stats to get the right stats.
+
+resetting the stats will just calculate all stats from beginning, which will take some time. it won't get deleted logentries/messages, as they are deleted ;)
+
+## Why is "cost per call" not available? ##
+
+At the moment it is not possible to set "cost per call" and a "free minutes" at the same time/plan. please follow [issue #58](https://code.google.com/p/callmeter/issues/detail?id=#58) for further development on that.
+
+## How do i change the language, if my android does not want me to change it? ##
+
+There is an app: morelocale. I did not test it. But users did ([issue #48](https://code.google.com/p/callmeter/issues/detail?id=#48)).
+
+## Is it possible to show my local currency? ##
+It is.
+The currency symbol is set by android's locale settings.
+Just set it to whereever you live.
+
+## Is it possible to change the time format? ##
+It is, like above you set it with your android's locale settings.
+
+## Is it possible to change the currency symbol, time format or language? ##
+In CM2 it's not. Please checkout Call Meter 3G aka CM3.
+
+## What should i set the cost / call/sms/mb to? ##
+You should set it in your main currency eg. 0.09€/SMS.
+You need to set it with a "." regardless of your locale (This is a bug in android itself).
+
+## Is it possible to separate roaming calls? ##
+In CM2 it's not. Please checkout Call Meter 3G aka CM3.
+
+## Is it possible to exclude WebSMS/Sipdroid's sms/calls? ##
+In CM2 it's not. Please checkout Call Meter 3G aka CM3.
+
+## Is it possible to change billing for roaming calls/messages? ##
+In CM2 it's not. Please checkout Call Meter 3G aka CM3.
+
+## Is there any plan for widgets or alerts? ##
+In CM2 it's not. Please checkout Call Meter 3G aka CM3.
+
+## Is there any way to see previous month's statistics? ##
+In CM2 it's not. Please checkout Call Meter 3G aka CM3.
+
+## Is there any way to backup and restore the statistics (e.g. when changing the phone)? ##
+Not today. But restoring the backup of call log/messages with external apps should restore the stats in CallMeter too.
+
+## Why does the app need network-based location access? ##
+It's just for the ads provided by admob.
+If you are afraid of this apps behavior, you should check out the source code.
+As this is an open source project, the source is available for everyone!
+
+## Please add... ##
+Please post your feature request as issue:
+http://code.google.com/p/callmeter/issues/list
